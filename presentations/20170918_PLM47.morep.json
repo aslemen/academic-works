@@ -1,0 +1,54 @@
+{
+	"version": "1.2",
+	"content": [
+		{
+			"work_type": "presentation",
+			"lang": "en",
+			"content_lang": "en",
+			"work_id": "20170918",
+			"authors_pre":[],
+			"author": ["Hayashi", "Noritsugu"],
+			"authors_post": [
+				["Mori", "Yoshiki"]
+			],
+			"date_begin": {
+				"year": 2017,
+				"month": 9,
+				"day": 18,
+				"hour": 16,
+				"minute": 0,
+				"second": 0,
+				"zone": "CEST" 
+			},
+			"date_end": {
+				"year": 2017,
+				"month": 9,
+				"day": 18,
+				"hour": 16,
+				"minute": 30,
+				"second": 0,
+				"zone": "CEST" 
+			},
+			"title": ["Long Distance Anaphor and φ-typology"],
+			"conference": [
+				"Variation as the new norm in syntactic research",
+				"47th Poznań Linguistic Meeting"
+			],
+			"refereed" : true,
+			"location": ["Faculty of English",
+				"Adam Mickiewicz University in Poznań"],
+			"webpage": [
+				{ "name": "Conference Website",
+				   "url": "http://wa.amu.edu.pl/plm_old/2017/"}
+			],
+			"file": [
+				{
+					"name": "Abstract",
+					"url": "http://wa.amu.edu.pl/plm_old/2017/files/abstracts/PLM2017_Abstract_Hayashi_Mori.pdf",
+					"work_type": "pdf",
+					"lang": "en"
+				}
+			]
+		}
+	]
+}

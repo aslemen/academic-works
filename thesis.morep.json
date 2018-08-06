@@ -1,0 +1,65 @@
+{
+	"version": "1.2",
+	"content": [
+		{
+			"work_type": "thesis",
+			"lang": "en",
+			"work_id": "20160118",
+			"author": ["Hayashi", "T. N."],
+			"content_lang": "en",
+			"date_begin": {
+				"year": 2016,
+				"month": 1,
+				"day": 18,
+				"hour": 0,
+				"minute": 0,
+				"second": 0,
+				"zone": "JST"
+			},
+			"date_end": {
+				"year": 2016,
+				"month": 1,
+				"day": 18,
+				"hour": 0,
+				"minute": 0,
+				"second": 0,
+				"zone": "JST"
+			},
+			"title": ["Minimality Effects in Discourse", 
+				"An SDRT Analysis of the Anaphoric Expressions <i>Zibun</i> and <i>the Zero Pronoun</i> in Japanese"],
+			"thesis_type": ["Unpublished B.A. thesis"],
+			"institution": ["College of Arts and Sciences",
+					"the University of Tokyo"]
+		},
+		{
+			"work_type": "thesis",
+			"lang": "en",
+			"work_id": "20180206",
+			"content_lang": "en",
+			"author": ["Hayashi", "T. N."],
+			"date_begin": {
+				"year": 2018,
+				"month": 2,
+				"day": 6,
+				"hour": 0,
+				"minute": 0,
+				"second": 0,
+				"zone": "JST"
+			},
+			"date_end": {
+				"year": 2018,
+				"month": 2,
+				"day": 6,
+				"hour": 0,
+				"minute": 0,
+				"second": 0,
+				"zone": "JST"
+			},
+			"title": ["Lexical Economy in Minimalist Grammar"],
+			"thesis_type": ["Unpublished M.A. thesis"],
+			"institution": ["Department of Language and Information Sciences", 
+					"Graduate School of Arts and Sciences",
+					"the University of Tokyo"]
+		}
+	]
+}

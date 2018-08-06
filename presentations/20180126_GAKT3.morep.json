@@ -1,0 +1,39 @@
+{
+	"version": "1.2",
+	"content": [
+		{
+			"work_type": "presentation",
+			"lang": "en",
+			"speech_lang": "en",
+			"work_id": "20180126",
+			"authors_pre":[],
+			"author": ["Hayashi", "Noritsugu"],
+			"authors_post": [["Mori", "Yoshiki"]],
+			"date_begin": {
+				"year": 2018,
+				"month": 1,
+				"day": 27,
+				"hour": 9,
+				"minute": 30,
+				"second": 0,
+				"zone": "CET" 
+			},
+			"date_end": {
+				"year": 2018,
+				"month": 1,
+				"day": 27,
+				"hour": 10,
+				"minute": 30,
+				"second": 0,
+				"zone": "CET" 
+			},
+			"title": ["An initial attempt of describing <i>-te shimau</i> as apprehensiveness marker"],
+			"conference": [
+				"3. Workshop Germanistische Linguistik zwischen Köln und Tokio"
+			],
+			"refereed": false,
+			"location": ["House of Prominence, Universität zu Köln",
+					"Luxemburger Straße 299, Köln"]
+		}
+	]
+}
