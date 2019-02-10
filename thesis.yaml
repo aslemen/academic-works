@@ -1,0 +1,31 @@
+%YAML 1.2
+---
+Type: thesis
+Lang: en
+Record:
+    Work ID: BA
+    Thesis Type: Unpublished B.A. thesis
+    Institution: 
+        - College of Arts and Sciences
+        - the University of Tokyo
+    Content Language: en
+    Author: ["Hayashi", "T. N."]
+    Date: 2016-1-18
+    Title: 
+    - Minimality Effects in Discourse
+    - "An SDRT Analysis of the Anaphoric Expressions <i>Zibun</i> and <i>the Zero Pronoun</i> in Japanese"
+---
+Type: thesis
+Lang: en
+Record:
+    Work ID: MA
+    Thesis Type: Unpublished M.A. thesis
+    Institution: 
+        - Department of Language and Information Sciences
+        - Graduate School of Arts and Sciences
+        - the University of Tokyo
+    Content Language: en
+    Author: ["Hayashi", "T. N."]
+    Date: 2018-2-6
+    Title: 
+    - Lexical Economy in Minimalist Grammar

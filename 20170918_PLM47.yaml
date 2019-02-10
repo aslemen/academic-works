@@ -1,0 +1,33 @@
+%YAML 1.2
+---
+Type: presentation
+Lang: en
+Record:
+  Work ID: 20170918
+  Content Language: en
+  Author: ["Hayashi", "Noritsugu"]
+  Authors_Post:
+    - ["Ito", "Katsumasa"]
+    - ["Yamazaki", "Yuto"]
+    - ["Mori", "Yoshiki"]
+  Time:
+    Beginning: 2017-09-18T16:00:00+02:00
+    End: 2017-09-18T16:30:00+02:00
+  Title: 
+    - Long Distance Anaphor and φ-typology
+  Conference:
+    - Variation as the new norm in syntactic research
+    - 47th Poznań Linguistic Meeting
+  Refereed: true
+  Location:
+    - Faculty of English
+    - Adam Mickiewicz University in Poznań
+  Website:
+    - Name: Conference Website
+      Language: en
+      Type: html
+      URL: http://wa.amu.edu.pl/plm_old/2017/
+    - Name: Abstract
+      Language: en
+      Type: pdf
+      URL: http://wa.amu.edu.pl/plm_old/2017/files/abstracts/PLM2017_Abstract_Hayashi_Mori.pdf"

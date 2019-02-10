@@ -1,0 +1,56 @@
+%YAML 1.2
+---
+Type: &type_jgg 
+      presentation
+Lang: en
+Record:
+  Work ID: &work_id_jgg 
+           20180527
+  Content Language: &lang_jgg 
+                    ja
+  Author: ["Hayashi", "T. N."]
+  Authors_Post:
+    - ["Mori", "Yoshiki"]
+  Time: &time_jgg
+    Beginning: 2018-05-27T10:00:00+09:00
+    End: 2018-05-27T13:00:00+09:00
+  Title: 
+    - 懸念標識の構成的意味論に向けて (Towards a compositional semantics of apprehensiveness markers)
+  Conference:
+    - "シンポジウムV (Symposium 5): 情報構造と話し手の状況把握 (Information structure and speakers' situational awareness)"
+    - "日本独文学会第72回 春季研究発表会 (72th Spring Conference, Japan Association of German Studies)"
+  Refereed: &referee_jgg 
+            false
+  Location:
+    - Toyama Campus
+    - Waseda University
+    - Tokyo
+  Website:
+    - Name: Conference Website
+      Language: ja
+      Type: pdf
+      URL: http://www.jgg.jp/pdf/updata/2018F_Programm_180327.pdf
+
+---
+Type: *type_jgg
+Lang: ja
+Record:
+  Work ID: *work_id_jgg
+  Content Language: *lang_jgg
+  Author: ["林", "則序"]
+  Authors_Post:
+    - ["森", "芳樹"]
+  Time: *time_jgg
+  Title: 
+    - 懸念標識の構成的意味論に向けて
+  Conference:
+    - シンポジウムV：情報構造と話し手の状況把握
+    - 日本独文学会第72回 春季研究発表会
+  Refereed: *referee_jgg
+  Location:
+    - 早稲田大学戸山キャンパス
+  Website:
+    - Name: 会議情報
+      Language: ja
+      Type: pdf
+      URL: http://www.jgg.jp/pdf/updata/2018F_Programm_180327.pdf

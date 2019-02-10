@@ -1,0 +1,21 @@
+%YAML 1.2
+---
+Type: presentation
+Lang: en
+Record:
+  Work ID: 20180126
+  Content Language: en
+  Author: ["Hayashi", "Noritsugu"]
+  Authors_Post:
+    - ["Mori", "Yoshiki"]
+  Time:
+    Beginning: 2018-01-26T09:30:00+01:00
+    End: 2018-01-26T10:30:00+01:00
+  Title: 
+    - "An initial attempt of describing <i>-te shimau</i> as apprehensiveness marker"
+  Conference:
+    - "3. Workshop Germanistische Linguistik zwischen Köln und Tokio"
+  Refereed: false
+  Location:
+    - "House of Prominence, Universität zu Köln"
+    - "Luxemburger Straße 299, Köln"

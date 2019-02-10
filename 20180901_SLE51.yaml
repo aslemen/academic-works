@@ -1,0 +1,32 @@
+%YAML 1.2
+---
+Type: presentation
+Lang: en
+Record:
+  Work ID: 20180901
+  Content Language: en
+  Author: ["Hayashi", "Noritsugu"]
+  Authors_Post:
+    - ["Ito", "Katsumasa"]
+    - ["Yamazaki", "Yuto"]
+    - ["Mori", "Yoshiki"]
+  Time:
+    Beginning: 2018-09-01T11:30:00+03:00
+    End: 2018-09-01T12:00:00+03:00
+  Title: 
+    - "<i>-te shima(u)</i> as apprehensiveness trigger"
+  Conference:
+    - "Workshop 14: The semantics and pragmatics of apprehensive markers in a crosslinguistic perspective"
+    - 51st Annual Meeting of the Societas Linguistica Europaea
+  Refereed: true
+  Location:
+    - University of Tallinn
+  Website:
+    - Name: Conference Website
+      Language: en
+      Type: html
+      URL: http://sle2018.eu/
+    - Name: Abstract
+      Language: en
+      Type: pdf
+      URL: http://sle2018.eu/downloads/SLE%202018%20BOOK%20OF%20ABSTRACTS%20final.pdf
