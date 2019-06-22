@@ -4,9 +4,10 @@ Type: &type_jggsr
       collectionbook
 Lang: en
 Record: &rec_jggsr
-  Word ID: 20190527a
+  Work ID: 20190527a
   Content Language: ja
-  Editors_Pre: ["Yoshiki", "Mori"]
+  Authors_Pre: 
+    - ["Yoshiki", "Mori"] # 実際はeditors
   Time: 2019-05-27
   Title:
     - 情報構造と話し手の状況把握 (Information structure and speakers' situational awareness)
@@ -27,7 +28,7 @@ Type: *type_jggsr
 Lang: ja
 Record: 
   <<: *rec_jggsr
-  Editors_Pre:
+  Authors_Pre:
     - ["森", "芳樹"]
   Title:
     - 情報構造と話し手の状況把握
