@@ -1,0 +1,68 @@
+%YAML 1.2
+---
+Type: &type_jggsr
+      collectionbook
+Lang: en
+Record: &rec_jggsr
+  Word ID: 20190527a
+  Content Language: ja
+  Editors_Pre: ["Yoshiki", "Mori"]
+  Time: 2019-05-27
+  Title:
+    - 情報構造と話し手の状況把握 (Information structure and speakers' situational awareness)
+    - 日本独文学会研究叢書 135 (Research Series of Japan Association of German Studies No. 135)
+  Publisher: 日本独文学会 (Japan Association of German Studies)
+  Refereed: false
+  Website:
+    - Name: Website
+      Language: ja
+      Type: html
+      URL: http://www.jgg.jp/modules/organisation/index.php?content_id=406
+    - Name: Paper
+      Language: ja
+      Type: pdf
+      URL: http://www.jgg.jp/pdf/updata/SrJGG-135.pdf
+---
+Type: *type_jggsr
+Lang: ja
+Record: 
+  <<: *rec_jggsr
+  Editors_Pre:
+    - ["森", "芳樹"]
+  Title:
+    - 情報構造と話し手の状況把握
+    - 日本独文学会研究叢書 135
+  Publisher: 日本独文学会
+  Website:
+    - Name: ウェブサイト
+      Language: ja
+      Type: html
+      URL: http://www.jgg.jp/modules/organisation/index.php?content_id=406
+    - Name: 論文
+      Language: ja
+      Type: pdf
+      URL: http://www.jgg.jp/pdf/updata/SrJGG-135.pdf
+---
+Type: &type_jggsr_paper
+      incollection
+Lang: en
+Record: &rec_jggsr_paper
+  Work ID: 20190527b
+  Content Language: ja
+  Author: ["Hayashi", "Noritsugu"]
+  Authors_Post:
+    - ["Mori", "Yoshiki"]
+  Title: 
+    - 懸念標識の構成的意味論に向けて (Towards a compositional semantics of apprehensiveness markers)
+  Book: 20190527a
+  Refereed: false
+---
+Type: *type_jggsr_paper
+Lang: ja
+Record:
+  <<: *rec_jggsr_paper
+  Author: ["林", "則序"]
+  Authors_Post:
+    - ["森", "芳樹"]
+  Title: 
+    - 懸念標識の構成的意味論に向けて

@@ -1,0 +1,60 @@
+%YAML 1.2
+---
+Type: &type_nlpjp2019
+      presentation
+Lang: en
+Record: &rec_nlpjp2019
+  Work ID: 20190313
+  Content Language: ja
+  Authors_Pre:
+    - ["Kubota", "Yusuke"]
+    - ["Mineshima", "Koji"]
+  Author: ["Hayashi", "Noritsugu"]
+  Authors_Post:
+    - ["Okano", "Shinya"]
+  Time:
+    Beginning: 2019-03-13T14:30:00+09:00
+    End: 2019-03-13T16:10:00+09:00
+  Title: 
+    - 汎用的な範疇文法ツリーバンクの構築 (Constructing a versatile categorial grammar treebank)
+  Conference:
+    - 言語処理学会 第25回年次大会 (NLP2019, Japan)
+  Refereed: false #本当か？
+  Location:
+    - Nagoya University
+  Website:
+    - Name: Conference Website
+      Language: ja
+      Type: html
+      URL: https://www.anlp.jp/proceedings/annual_meeting/2019/index.html
+    - Name: Article
+      Language: ja
+      Type: pdf 
+      URL: http://www.nlpjp2019.jp/pdf/updata/2018F_Programm_180327.pdf
+---
+Type: *type_nlpjp2019
+Lang: ja
+Record:
+  <<: *rec_nlpjp2019
+  Authors_Pre:
+    - ["窪田", "悠介"]
+    - ["峯島", "宏次"]
+  Author: ["林", "則序"]
+  Authors_Post:
+    - ["岡野", "伸哉"]
+  Title: 
+    - 汎用的な範疇文法ツリーバンクの構築
+  Conference:
+    - シンポジウムV：情報構造と話し手の状況把握
+    - 日本独文学会第72回 春季研究発表会
+  Location:
+    - 名古屋大学
+  Website:
+    - Name: 会議情報
+      Language: ja
+      Type: html
+      URL: https://www.anlp.jp/proceedings/annual_meeting/2019/index.html
+    - Name: 論文
+      Language: ja
+      Type: pdf 
+      URL: http://www.nlpjp2019.jp/pdf/updata/2018F_Programm_180327.pdf

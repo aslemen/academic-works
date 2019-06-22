@@ -1,0 +1,21 @@
+%YAML 1.2
+---
+Type: presentation
+Lang: en
+Record:
+  Work ID: 20190327
+  Content Language: en
+  Author: ["Hayashi", "Noritsugu"]
+  Authors_Post:
+    - ["Okano", "Shinya"]
+  Time:
+    Beginning: 2019-03-27T16:20:00+09:00
+    End: 2019-03-27T17:10:00+09:00
+  Title: 
+    - "On the apparent unambiguous scoping of weak necessity modals over negation"
+  Conference:
+    - "4. Workshop Germanistische Linguistik zwischen Köln und Tokio"
+  Refereed: false
+  Location:
+    - "KOMCEE West 301"
+    - "University of Tokyo, Komaba"
